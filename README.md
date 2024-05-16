@@ -4,5 +4,8 @@
 📫 How to reach me: joelgeorge98765@gmail.com
 👯 I’m looking to collaborate on AI and ML projects
 
-https://camo.githubusercontent.com/539d91bf698cef734812ab3614661db39a92746423ae2fe4d4d57b5a085e0f47/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4170757276536861683030372673686f775f69636f6e733d74727565
+<img src="https://github-readme-stats.vercel.app/api?username=joelgeorge-web&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="joelgeorge-web's GitHub Stats" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelgeorge-web&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="joelgeorge-web's GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joelgeorge-web&theme=tokyonight&hide_border=true" alt="joelgeorge-web's GitHub Stats" />
